@@ -7,3 +7,5 @@ I AM STUDENT OF BS COMPUTER SCINECE
 
 we are professional AWS expert
 we are in the last stage of learning the cloud computing 
+
+practice makes a man perfect
